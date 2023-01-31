@@ -6,7 +6,7 @@ WARNING IAM NOT RESPONIBLE IF ANYTHING HAPPENS
 Dependincs 
 https://github.com/Project-Sloth/ps-ui
 
-installion 
+install
 
 part 1
 
